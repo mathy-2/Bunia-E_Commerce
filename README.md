@@ -1,2 +1,8 @@
-# Bunia-E_Commerce
-A mobile app done by No Sleep group during a training organized by Kubernets Inc in Bunia/USB
+# shopapp_tut
+
+A new Flutter application.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
