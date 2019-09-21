@@ -1,6 +1,6 @@
-# shopapp_tut
+# Bunia E-Commerce
 
-A new Flutter application.
+We are using flutter to create this mobile app
 
 ## Getting Started
 
